@@ -38,6 +38,9 @@ docker compose down
 
 A branch `main` está protegida: não é possível fazer push direto nela. Toda alteração precisa passar por um Pull Request, e o merge só é liberado depois que o pipeline de CI roda com sucesso (lint + build).
 
+![alt text](image.png)
+
+![alt text](image-1.png)
 
 ---
 
