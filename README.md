@@ -2,7 +2,7 @@
 
 Este repositório contém meu currículo profissional online, desenvolvido para a disciplina DS881 da UFPR.
 
-🔗 **Site no ar:** ``
+🔗 **Site no ar:** `https://flaviaros4.github.io/ds881-curriculo-GRR20240007/`
 
 ---
 
